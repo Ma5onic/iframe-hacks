@@ -1,0 +1,31 @@
+file get contents
+set base href
+
+base href target parent/top
+
+inject css
+	direct echo style tags with css code
+	inject absolute css file	
+
+extend max execution time
+set http headers and send
+
+curl
+filter javascript
+
+
+
+
+fullscreen alert for iframe
+iframe intelli-resize
+sandbox
+allowfullscreen
+
+
+
+
+
+flipkart trick
+remove noxfs() js function from html to avoid autofullscreen
+iframe will work only when sandbox is used without allow-scripts otherwise redirects to src or crashes
+sandbox="allow-same-origin allow-forms allow-top-navigation"

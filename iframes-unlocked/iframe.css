@@ -1,0 +1,5 @@
+// Force inject css styles into iframe
+
+body	{
+	background-color:yellow !important;
+}
